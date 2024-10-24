@@ -6,6 +6,6 @@ I'm a Computer Engineering student from the Philippines with a passion for codin
 
 ### *Connect with me*
 
-Linkedin: [Mark Justine Apitan](https://www.linkedin.com/in/markapitan/)
+- Linkedin: [Mark Justine Apitan](https://www.linkedin.com/in/markapitan/)
 
-Instagram: [kw4nu](https://www.instagram.com/kw4nu/)
+- Instagram: [kw4nu](https://www.instagram.com/kw4nu/)
