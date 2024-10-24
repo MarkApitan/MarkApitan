@@ -4,7 +4,7 @@ I'm a Computer Engineering student from the Philippines with a passion for codin
 ## What I'm Working On:
 [100 Days of Code](https://github.com/MarkApitan/100-Days-of-Code-Phyton) by Dr. Angela Yu
 
-##*Connect with me*
+## *Connect with me*
 
 Linkedin: [Mark Justine Apitan](https://www.linkedin.com/in/markapitan/)
 
