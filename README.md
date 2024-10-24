@@ -3,6 +3,7 @@ I'm a Computer Engineering student from the Philippines with a passion for codin
 
 ### What I'm Working On:
 - [100 Days of Code](https://github.com/MarkApitan/100-Days-of-Code-Phyton) by Dr. Angela Yu
+  
   An online Python course by Angela Yu that focuses on mastering Python by building 100 projects in 100 days.
 
 ### *Connect with me*
