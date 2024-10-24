@@ -1,4 +1,4 @@
-## Hello*👋
+## Greetings!👋
 
 I'm **Mark Justine L. Apitan** a **Computer Engineering student** from the Philippines with a passion for coding and a growing interest in **data science** and **cloud technology**.
 
