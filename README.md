@@ -11,6 +11,8 @@ A **Computer Engineering student** from the Philippines with a passion for codin
   
   This repository is a compilation of the programs that my university required me to complete during my second year in college.
 
-## Connect with Me:
+
+
+### Connect with Me:
 - [LinkedIn](https://www.linkedin.com/in/markapitan/)  
 - [Instagram](https://www.instagram.com/kw4nu/)
